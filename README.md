@@ -7,3 +7,5 @@
 5. Goto `localhost:8080`
 
 ![A browser tab showing a runnning instance of the app](screenshot.png "App screenshot")
+
+After playing around, run `docker compose down` in same terminal as before to deactivate the app.
